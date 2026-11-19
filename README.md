@@ -27,6 +27,11 @@ printed, where its answers were seen, and notes.
 
 ## What isn't known
 
+- **Who the contributors were.** One is identified: Georgeanna McMechen of 2007 McCulloh
+  Street (1925-02-14) was one of the four daughters of George W. F. McMechen, the Baltimore
+  lawyer, and his wife Mildred (looked up by Alex DeJarnatt, 2026-11-19). A "Georgia
+  McMechen" among the solvers' honorable mentions on 1924-12-27 is probably her. A. B. Koger
+  and John E. Cole Jr. are not yet identified.
 - **Who the "woman editor" was.** The page doesn't name her, and neither does this record yet.
 - **Who made the six uncredited home-made puzzles**: the editor, "Aunt Dilsey", or readers
   whose names weren't printed.
